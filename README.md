@@ -1,4 +1,4 @@
-#### Chrome-Extension-Colour-Picker
+## Chrome-Extension-Colour-Picker
 This code creates a Chrome extension that allows you to pick colors from your screen and store them for later use. Here's a breakdown of the functionality:
 
 ## 1. Selecting Colors:
